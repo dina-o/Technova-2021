@@ -5,7 +5,7 @@ Taigaini creates an immersive experience through the compilation of all AAPI med
 Cool website features I'm proud of: 
 - Image Hover Text Overlay Effect with HTML & CSS 
 - Dropdown options on menu 
-- Intervative and Smooth transitions (buttons, go to next page etc.)
+- Interactive and Smooth transitions (buttons, go to next page etc.)
 
 
 Coded in HTML, CSS, and with love <333
